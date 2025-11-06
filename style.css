@@ -42,3 +42,9 @@ a{
     text-align: center;
     font-size: 60px;
 }
+.Introdução{
+    background-image: url(https://digital.unesc.net/hs-fs/hubfs/EcononomiaVerde_unesc.jpg?width=706&height=396&name=EcononomiaVerde_unesc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #94ab6f;
+}
