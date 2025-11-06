@@ -16,21 +16,29 @@ a{
 }
 .barra_navegacao{
     background-color: #748756;
+    padding: 0%;
+    gap: 0%;
 }
-.divnav{
+.ancorasSuperior{
     display: flex;
     justify-content: space-around ;
     margin-top: 20px;
     background-color: #748756;
     padding: 10px;
 }
-.divnav2{
+.ancorasInferiores{
     display: flex;
     justify-content: space-around ;
-    margin-top: 20px;
+    margin-top: 10px;
     background-color: #748756;
     padding: 10px;
 }
 .p{
     background-color: #748756;
+}
+#titulo_principal{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 60px;
 }
