@@ -15,16 +15,22 @@ a{
     color: black;
 }
 .barra_navegacao{
+    background-color: #748756;
+}
+.divnav{
     display: flex;
     justify-content: space-around ;
     margin-top: 20px;
     background-color: #748756;
     padding: 10px;
 }
-.br1ancora{
+.divnav2{
     display: flex;
     justify-content: space-around ;
     margin-top: 20px;
     background-color: #748756;
     padding: 10px;
+}
+.p{
+    background-color: #748756;
 }
